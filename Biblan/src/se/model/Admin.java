@@ -10,5 +10,6 @@ package se.model;
  * @author rimazivkovic
  */
 public class Admin {
-    
+    private String name, PN, lastName;
+    private int age;
 }
